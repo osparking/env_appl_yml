@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "java.home",
+    "type": "java.lang.String",
+    "description": "윈도우 내 JDK 설치 위치"
+  },
+  {
+    "name": "environment.name",
+    "type": "java.lang.String",
+    "description": "응용프로그램 실행 운영체제"
+  },
+  {
+    "name": "client_id_facebook",
+    "type": "java.lang.String",
+    "description": "페이스북-ID: OAuth2 기능으로 제3자 로그인 사용"
+  }
+]}
